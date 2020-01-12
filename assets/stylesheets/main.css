@@ -1,0 +1,37 @@
+.picture {
+    width: 40vw;
+    height: 40vw;
+} 
+.picture1 {
+    width: 40vw;
+    height: 40vw;
+}
+div {font-style: italic;
+color: cadetblue; 
+font-weight: bolder;
+margin-top: 50px;}
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: coral;
+    font-family: Calibri;
+    margin-bottom: 50px;
+    margin-top: 150px;
+}
+h3 {
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgb(24, 22, 133);
+}
+P {
+    font-size: 25px;
+    font-family:Arial;
+    font-weight: bold;
+    color: gray;
+}
+
+body {
+    background-color: rgb(214, 242, 255);
+    text-align: center;
+    
+}
